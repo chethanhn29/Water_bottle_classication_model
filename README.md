@@ -1,6 +1,6 @@
 # Water Bottle Classication Using CNN
 ## Objective: image classification model to classify water bottles as Full,Half,Overflowing Water bottles based on water level inside
-<iframe src="https://github.com/chethanhn29/Water_bottle_classication_model/blob/main/Deployed%20Model%20Predictions/Predicted_image_1.png">
+<iframe src=https://github.com/chethanhn29/Water_bottle_classication_model/blob/main/Screenshot%20(181).png>
 </iframe>
 
 
