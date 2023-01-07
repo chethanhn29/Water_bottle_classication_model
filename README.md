@@ -16,10 +16,7 @@
 ### 12.Use the trained model to classify new images of water bottles and predict the water level inside.
 
 
-
-![Water bottle image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F1000084%2Fpexels-photo-1000084.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-steve-johnson-1000084.jpg%26fm%3Djpg&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fwater%2520bottle%2F&tbnid=Yzhai9sV0l4x-M&vet=12ahUKEwjb7M2uq7T8AhVVk9gFHZVxBAkQMyguegUIARCxAg..i&docid=O1xxQ8socY_xuM&w=3328&h=1864&q=water%20bottle%20real%20image&ved=2ahUKEwjb7M2uq7T8AhVVk9gFHZVxBAkQMyguegUIARCxAg)
-
-
+![download (7)](https://user-images.githubusercontent.com/110838853/211126090-069a3981-b107-4e91-81a7-caafc5485650.jpg)  ![images (9)](https://user-images.githubusercontent.com/110838853/211126006-8baad9cf-85fb-4f8a-9ba2-c3b7e3022742.jpg)                 ![download (8)](https://user-images.githubusercontent.com/110838853/211126092-e2025ae4-52e4-453a-94c6-2ea6ba52e966.jpg)                   ![download (9)](https://user-images.githubusercontent.com/110838853/211126169-2cb27b26-f30c-4ba6-9692-0032b14dbdb8.jpg)    
 
 
 
