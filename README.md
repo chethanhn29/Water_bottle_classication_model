@@ -1,4 +1,4 @@
-# Water Bottle Classication Using CNN
+# Water Bottle Image Classication Using CNN
 ## Objective: image classification model to classify water bottles as Full,Half,Overflowing Water bottles based on water level inside
 
 
