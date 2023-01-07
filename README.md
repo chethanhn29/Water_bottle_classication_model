@@ -17,6 +17,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 ### 1.Collect a labeled dataset of images of water bottles, with each image labeled with the corresponding water level (full, half, or overflowing).
 This dataset will be used to train and evaluate the CNN model.
 
