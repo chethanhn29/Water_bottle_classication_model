@@ -2,18 +2,18 @@
 ## Objective: image classification model to classify water bottles as Full,Half,Overflowing Water bottles based on water level inside
 
 
-### 1.Collect a labeled dataset of images of water bottles, with each image labeled with the corresponding water level (full, half, or overflowing).
-### 2.Preprocess the images as needed, such as by resizing or cropping them.
-### 3.Use data augmentation techniques to increase the size of the dataset and improve model generalization.
-### 4.Convert the images to a size of 256x256 and ensure that they have 3 channels (RGB).
-### 5.Split the dataset into training and validation sets.
-### 6.Implement a CNN using TensorFlow and Keras.
-### 7.Use the Adam optimizer and a batch size of 32 to train the model on the training set.
-### 8.Use class weights to address imbalanced classes in the dataset.
-### 9.Monitor the model's performance on the validation set during training.
-### 10.Calculate performance metrics such as precision, recall, validation loss, and accuracy loss.
-### 11.Deploy the model using Gradio for real-time classification.
-### 12.Use the trained model to classify new images of water bottles and predict the water level inside.
+#### 1.Collect a labeled dataset of images of water bottles, with each image labeled with the corresponding water level (full, half, or overflowing).
+#### 2.Preprocess the images as needed, such as by resizing or cropping them.
+#### 3.Use data augmentation techniques to increase the size of the dataset and improve model generalization.
+#### 4.Convert the images to a size of 256x256 and ensure that they have 3 channels (RGB).
+#### 5.Split the dataset into training and validation sets.
+#### 6.Implement a CNN using TensorFlow and Keras.
+#### 7.Use the Adam optimizer and a batch size of 32 to train the model on the training set.
+#### 8.Use class weights to address imbalanced classes in the dataset.
+#### 9.Monitor the model's performance on the validation set during training.
+#### 10.Calculate performance metrics such as precision, recall, validation loss, and accuracy loss.
+#### 11.Deploy the model using Gradio for real-time classification.
+#### 12.Use the trained model to classify new images of water bottles and predict the water level inside.
 
 
 ![download (7)](https://user-images.githubusercontent.com/110838853/211126090-069a3981-b107-4e91-81a7-caafc5485650.jpg)  ![images (9)](https://user-images.githubusercontent.com/110838853/211126006-8baad9cf-85fb-4f8a-9ba2-c3b7e3022742.jpg)                 ![download (8)](https://user-images.githubusercontent.com/110838853/211126092-e2025ae4-52e4-453a-94c6-2ea6ba52e966.jpg)                   ![download (9)](https://user-images.githubusercontent.com/110838853/211126169-2cb27b26-f30c-4ba6-9692-0032b14dbdb8.jpg)    
