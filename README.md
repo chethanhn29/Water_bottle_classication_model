@@ -10,6 +10,9 @@ image classification model to classify water bottles as Full,Half,Overflowing Wa
 This dataset will be used to train and evaluate the CNN model.
 
 Consider collecting a diverse and representative set of images to improve the model's generalizability.
+
+The images in this dataset were obtained [Water Bottle Dataset](https://www.kaggle.com/datasets/chethuhn/water-bottle-dataset)
+from Kaggle.
 #### 2.   Preprocess the images as needed, such as by resizing or cropping them.
 Preprocessing the images can help to ensure that they are in a consistent format and ready for use as input to the CNN.
 
