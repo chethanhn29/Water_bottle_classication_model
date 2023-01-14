@@ -33,6 +33,23 @@ Converting the images to the required format is an important step in preparing t
 #### 5. Split the dataset into training and validation sets.
 The training set will be used to train the CNN model, while the validation set will be used to evaluate the model's performance during training.
 
+
+
+
+### Folder Structure
+#### data: This folder contains the dataset of water bottle images that is used to train and evaluate the model. The images are labeled with the corresponding water level (full, half, or overflowing).
+#### model: This folder contains the trained model and the code for training the model.
+notebook: This folder contains the Jupyter notebook used for preprocessing the data, building and training the model.
+Documentation
+#### Guide.pdf: This documentation provides a detailed guide on how to use the model and how to train and evaluate the model on new data.
+You can also provide the link of the dataset or the model that you used in the project and also provide the link of the documentation if it is available online.
+
+For example:
+
+The dataset used in this project can be found at Water Bottle Dataset
+The trained model can be found at Water Bottle Model
+The documentation can be found at Guide
+
 A common split is to use 80% of the data for training and 20% for validation.
 
 #### 6. Implement a CNN using TensorFlow and Keras.
@@ -93,3 +110,21 @@ Once the model has been trained and deployed, it can be used to classify new ima
 This can be useful for automating the process of monitoring water levels, reducing the need for manual inspection.
 
 The model can be used with the user interface created in step 11 to allow users to input images and receive predictions in real-time.
+
+
+### Folder Structre 
+
+#### Dataset  
+This folder contains the labeled dataset of images of water bottles that was used to train and evaluate the CNN model. The images are labeled with the corresponding water level (full, half, or overflowing).
+
+#### Model 
+This folder contains the trained CNN model and any associated files, such as the model architecture, weights, and training history.
+
+#### Deployed Model Predictions 
+This folder contains example predictions made by the deployed model on new, unseen data.
+
+#### Source Code 
+This folder contains the source code for this project, including the code for data preprocessing, model training and evaluation, and model deployment.
+
+#### Documentation 
+This folder contains any additional documentation for this project, such as project reports, presentations, and user guides.
