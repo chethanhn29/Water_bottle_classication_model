@@ -117,13 +117,13 @@ The model can be used with the user interface created in step 11 to allow users 
 ### [Dataset](https://github.com/chethanhn29/Water_bottle_classication_model/tree/main/Dataset)  
 This folder contains the labeled dataset of images of water bottles that was used to train and evaluate the CNN model. The images are labeled with the corresponding water level (full, half, or overflowing).
 
-### [Model]
+### [Model](https://github.com/chethanhn29/Water_bottle_classication_model/tree/main/Model)
 This folder contains the trained CNN model and any associated files, such as the model architecture, weights, and training history.
 
 ### [Deployed Model Predictions](https://github.com/chethanhn29/Water_bottle_classication_model/tree/main/Deployed%20Model%20Predictions)
 This folder contains example predictions made by the deployed model on new, unseen data.
 
-### [Source Code](https://github.com/chethanhn29/Water_bottle_classication_model/tree/main/Model)
+### [Source Code](https://github.com/chethanhn29/Water_bottle_classication_model/tree/main/Source%20Code)
 This folder contains the source code for this project, including the code for data preprocessing, model training and evaluation, and model deployment.
 
 ### [Documentation](https://github.com/chethanhn29/Water_bottle_classication_model/tree/main/Documentation)
