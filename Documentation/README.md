@@ -14,7 +14,8 @@ The objective of this project is to build and train a Convolutional Neural Netwo
 
 ## Data Collection and Preprocessing:
 
-1. The first step in this project is to collect a labeled dataset of images of water bottles, with each image labeled with the corresponding water level (full, half, or overflowing). You can use the water bottle dataset available at [Kaggle](https://www.kaggle.com/datasets/chethuhn/water-bottle-dataset), or you may choose to create your own dataset by manually labeling images or using a tool such as Labelbox.
+1. The first step in this project is to collect a labeled dataset of images of water bottles, with each image labeled with the corresponding water level (full, half, or overflowing). You can use the water bottle dataset available at [Kaggle](https://www.kaggle.com/datasets/chethuhn/water-bottle-dataset), 
+or you may choose to create your own dataset by manually labeling images or using a tool such as Labelbox.
 
 2. Once the dataset has been downloaded or created, it is important to preprocess the images as needed to ensure that they are all of the same size and have the same number of channels (e.g. 3 for RGB images). This can be done using functions such as resize, crop, or pad.
 
