@@ -35,19 +35,20 @@ A common split is to use 80% of the data for training and 20% for validation.
 #### 6. Implement a CNN using TensorFlow and Keras.
 TensorFlow is a popular machine learning library that can be used to implement and train neural networks.
 Keras is a high-level API for building and training neural networks that runs on top
-![jmV3oAz](https://user-images.githubusercontent.com/110838853/212463553-57589f0e-b27c-448a-8bb7-9d2c4f6eb729.jpg)
+
 
 
 #### 7. How the Image data works in my Model 
-#### a)Input: The model takes in images of water bottles as input. These images are typically preprocessed and resized to a fixed size (e.g. 256x256 pixels) before being fed into the model.
+![jmV3oAz](https://user-images.githubusercontent.com/110838853/212463553-57589f0e-b27c-448a-8bb7-9d2c4f6eb729.jpg)
+a)Input: The model takes in images of water bottles as input. These images are typically preprocessed and resized to a fixed size (e.g. 256x256 pixels) before being fed into the model.
 
-#### b)Convolutional Layers: The model then applies a series of convolutional layers to extract features from the input images. These layers use filters (also called kernels or weights) to detect patterns in the images, such as edges or textures. The filters are typically small (e.g. 3x3 pixels) and move across the entire image, creating a feature map for each filter. The number of filters in each layer and their stride (i.e. how much they move) can be adjusted to control the complexity of the model.
+b)Convolutional Layers: The model then applies a series of convolutional layers to extract features from the input images. These layers use filters (also called kernels or weights) to detect patterns in the images, such as edges or textures. The filters are typically small (e.g. 3x3 pixels) and move across the entire image, creating a feature map for each filter. The number of filters in each layer and their stride (i.e. how much they move) can be adjusted to control the complexity of the model.
 
-#### c)Pooling Layers: The model also applies pooling layers to the feature maps, which down-sample the maps by taking the maximum or average of a group of adjacent pixels. This reduces the dimensionality of the data and helps to make the model more robust to small variations in the input images.
+c)Pooling Layers: The model also applies pooling layers to the feature maps, which down-sample the maps by taking the maximum or average of a group of adjacent pixels. This reduces the dimensionality of the data and helps to make the model more robust to small variations in the input images.
 
-#### d)Fully Connected Layers: After the convolutional and pooling layers, the model flattens the feature maps and applies a series of fully connected layers (also called dense layers) to make the final predictions. These layers use weights to combine the features from the previous layers and produce a probability for each class. The number of neurons in these layers and their activation functions can be adjusted to control the model's capacity.
+d)Fully Connected Layers: After the convolutional and pooling layers, the model flattens the feature maps and applies a series of fully connected layers (also called dense layers) to make the final predictions. These layers use weights to combine the features from the previous layers and produce a probability for each class. The number of neurons in these layers and their activation functions can be adjusted to control the model's capacity.
 
-#### e)Output: The model produces a probability for each class, which can be converted into a predicted class using a classifier such as argmax or softmax. The model can also be fine-tuned using the loss function and optimizer.
+e)Output: The model produces a probability for each class, which can be converted into a predicted class using a classifier such as argmax or softmax. The model can also be fine-tuned using the loss function and optimizer.
 
 Overall, the model takes in an image of a water bottle and applies a series of convolutional and pooling layers to extract features from the image. These features are then passed through fully connected layers to make the final prediction. This process is known as feature extraction and it is the backbone of CNNs.
 
