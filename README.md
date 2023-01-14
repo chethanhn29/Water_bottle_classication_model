@@ -114,7 +114,7 @@ The model can be used with the user interface created in step 11 to allow users 
 
 ### Folder Structre 
 
-#### Dataset  
+#### [Dataset](https://github.com/chethanhn29/Water_bottle_classication_model/tree/main/Dataset)  
 This folder contains the labeled dataset of images of water bottles that was used to train and evaluate the CNN model. The images are labeled with the corresponding water level (full, half, or overflowing).
 
 #### Model 
